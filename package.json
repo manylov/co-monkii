@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "co-monkii",
+        "scope": null,
+        "escapedName": "co-monkii",
+        "name": "co-monkii",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/maxim/dev/tmp"
+    ]
+  ],
+  "_from": "co-monkii@latest",
+  "_id": "co-monkii@1.0.0",
+  "_inCache": true,
+  "_location": "/co-monkii",
+  "_nodeVersion": "4.4.5",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/co-monkii-1.0.0.tgz_1466085177491_0.856710814870894"
+  },
+  "_npmUser": {
+    "name": "manylov",
+    "email": "manylov@gmail.com"
+  },
+  "_npmVersion": "2.15.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "co-monkii",
+    "scope": null,
+    "escapedName": "co-monkii",
+    "name": "co-monkii",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/co-monkii/-/co-monkii-1.0.0.tgz",
+  "_shasum": "e781132130d73326ee6c21693db575fd88e6b735",
+  "_shrinkwrap": null,
+  "_spec": "co-monkii",
+  "_where": "/home/maxim/dev/tmp",
+  "dependencies": {
+    "thunkify": "0.0.1"
+  },
+  "description": "mongodb generator goodness for co",
+  "devDependencies": {
+    "co": "~2.3.0",
+    "mocha": "*",
+    "monkii": "*",
+    "should": "*"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "e781132130d73326ee6c21693db575fd88e6b735",
+    "tarball": "https://registry.npmjs.org/co-monkii/-/co-monkii-1.0.0.tgz"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "co",
+    "monk",
+    "generators",
+    "mongo",
+    "mongodb",
+    "aggregate",
+    "monkii"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "manylov",
+      "email": "manylov@gmail.com"
+    }
+  ],
+  "name": "co-monkii",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "1.0.0"
+}
